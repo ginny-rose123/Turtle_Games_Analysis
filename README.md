@@ -24,6 +24,6 @@ Approach:
 
 **📄 Supporting Documents**
 
-[Final Presentation](https://github.com/ginny-rose123/NHS_Capacity_Analysis/releases/tag/v1)
+[Final Presentation](https://github.com/ginny-rose123/Turtle_Games_Analysis/releases/tag/Presentation)
 
-[Technical Reports](https://github.com/ginny-rose123/NHS_Capacity_Analysis/releases/tag/v1.0)
+[Technical Reports](https://github.com/ginny-rose123/Turtle_Games_Analysis/releases/tag/Tech_Report)
